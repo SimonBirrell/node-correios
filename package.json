@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.67.0",
-    "soap": "^0.29.0"
+    "soap": ">= 0.29.0"
   },
   "devDependencies": {
     "mocha": "latest",
