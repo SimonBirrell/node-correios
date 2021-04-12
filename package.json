@@ -20,7 +20,7 @@
   "author": "Vitor Leal <vitorleal1@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "request": "^2.67.0",
+    "request": ">= 2.67.0",
     "soap": ">= 0.29.0"
   },
   "devDependencies": {
